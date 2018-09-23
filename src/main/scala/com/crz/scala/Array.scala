@@ -3,11 +3,16 @@ package com.crz.scala
 /**
   * scala学习
   */
-object array {
+object Array {
 
   def main(args: Array[String]): Unit = {
+    /**
+      * 创建一个集合
+      */
     val x = List(1, 2, 3, 4)
-
+    /**
+      * 创建元组
+      */
     val tuple = (10, "crz")
 
     println(x)
