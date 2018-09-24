@@ -1,7 +1,7 @@
 package com.crz.scala
 
 /**
-  * scala学习
+  * 数组集合元组
   */
 object Array {
 
